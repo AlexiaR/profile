@@ -33,6 +33,11 @@ body {
     color: #788188;
 }
 
+}
+#content {
+  margin-left: 300px;
+}
+
 .container-fluid {
   width: 600px;
   margin: 40px auto;
